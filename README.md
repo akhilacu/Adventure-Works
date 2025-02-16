@@ -11,6 +11,8 @@ Highlights
 🥇 Push transformed data to Silver layer for further analysis.
 📈 Utilize Synapse Analytics for database creation and analysis tasks.
 🛠️ Explore the capabilities of Data Bricks for data processing and analytics.
+
+
 Key Insights
 🔧 Azure Data Factory Setup: Establishing linked services is crucial for connecting various data sources, enabling a seamless data integration process.
 🔍 Data Transformation Importance: Transformations like concatenation and case adjustments are fundamental for preparing data for analysis, ensuring data quality and usability.
